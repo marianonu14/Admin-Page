@@ -1,1 +1,1 @@
-# Admin App with React
+# Admin App with React and React-Admin
